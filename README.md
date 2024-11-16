@@ -1,32 +1,32 @@
 # Plataforma Educacional
 
-Este repositório contém o desenvolvimento de um projeto acadêmico focado na análise e projeto de uma **Plataforma Educacional**, desenvolvido na disciplina de **Análise e Projeto de Sistemas**.
+Este repositório contém o desenvolvimento de um projeto acadêmico da disciplina de **Análise e Projeto de Sistemas**, que tem como objetivo analisar e projetar uma **Plataforma Educacional**.
 
 ## Objetivo
 
-O objetivo do projeto é aplicar conceitos e práticas de engenharia de software para modelar e documentar uma solução robusta e bem estruturada, com ênfase em análise e projeto, explorando arquiteturas e padrões de design.
+O projeto busca aplicar conceitos de engenharia de software para realizar a análise e o projeto de uma plataforma educacional, documentando todas as etapas do processo com base nas boas práticas da área.
 
 ## Escopo do Projeto
 
-O projeto abrange as seguintes atividades:
+As atividades do projeto incluem:
+
 - Definição do domínio do software.
-- Criação de artefatos como:
+- Elaboração de artefatos, como:
   - Diagrama de casos de uso.
   - Diagramas de sequência para análise de casos de uso.
   - Diagrama de classes e organização em pacotes.
-  - Arquitetura detalhada da aplicação.
-- Exploração de padrões de projeto em pelo menos dois casos de uso.
-- Refinamento e evolução do projeto com base em feedbacks.
+  - Arquitetura do sistema.
+- Exploração de padrões de projeto em casos de uso específicos.
+- Refinamento do projeto conforme as análises realizadas.
 
 ## Organização do Repositório
 
-- **Wiki**: Documentação completa do projeto, incluindo diagramas, descrição de casos de uso e explicações técnicas.
-- **Artefatos**: Contém os arquivos de diagramas e outros documentos desenvolvidos.
+- **Wiki**: Documentação completa, incluindo diagramas e descrição detalhada dos casos de uso.
+- **Artefatos**: Contém arquivos relacionados aos diagramas e outros documentos técnicos.
 
 ## Equipe
 
-- CARLOS EDUARDO DE ALMEIDA COUTINHO - 554710
-- FRANCISCO RIAN RIBEIRO MEDEIRO - 552915
-- MARIA FERNANDA VASCONCELOS NUNES - 554599
-- TIAGO PEREIRA BATISTA FILHO -  556261
-
+- **Carlos Eduardo de Almeida Coutinho** - 554710  
+- **Francisco Rian Ribeiro Medeiro** - 552915  
+- **Maria Fernanda Vasconcelos Nunes** - 554599  
+- **Tiago Pereira Batista Filho** - 556261
